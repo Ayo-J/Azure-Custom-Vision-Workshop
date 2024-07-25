@@ -62,7 +62,8 @@ This practical covers classifying images into predefined categories using Azure 
 
 
 
+## Feedback
 
-## 🔗 Links
+If you have any feedback, please reach out me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayodhya-j-weerabahu/)
