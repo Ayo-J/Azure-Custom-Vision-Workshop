@@ -1,2 +1,2 @@
-# Azure-Custom-Vision-Workshop-MS-Cahmps
+# Azure-Custom-Vision-Workshop-MS-Champs
 Introduction Computer Vision and Custom Vision - Workshop
