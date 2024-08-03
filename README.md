@@ -10,10 +10,9 @@ Azure AI Custom Vision is an image recognition service that lets you build, depl
 
 
 ## Installation
-### Forking the Repository
-1. Go to the GitHub page of the repository you want to fork.
-2. Click on the "Fork" button on the top right corner of the page.
-3. GitHub will create a copy of the repository under your account.
+### Forking the Repository.
+1. Click on the "Fork" button on the top right corner of the page.
+2. GitHub will create a copy of the repository under your account.
 
 
 
